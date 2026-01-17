@@ -41,7 +41,12 @@ This system follows an **end-to-end machine learning pipeline**, which includes:
 - Git & GitHub for version control
 
 ---
+### 💻 Website Images
 
+<img width="1913" height="955" alt="image" src="https://github.com/user-attachments/assets/0a68cc66-7851-434d-b6fe-ac90896450e2" />
+<img width="1918" height="835" alt="image" src="https://github.com/user-attachments/assets/10bbe0b3-44f0-4c94-950b-7a3f8bc0c94c" />
+<img width="1838" height="855" alt="image" src="https://github.com/user-attachments/assets/51bf1217-a04c-4146-92e2-31758127dece" />
+<img width="1898" height="828" alt="image" src="https://github.com/user-attachments/assets/a7f168f5-fe5d-4706-a1aa-bf3dc3ff4dff" />
 
 
 ### 💻 Tech Stack
@@ -73,10 +78,7 @@ This system follows an **end-to-end machine learning pipeline**, which includes:
 
 ---
 
-<img width="1913" height="955" alt="image" src="https://github.com/user-attachments/assets/0a68cc66-7851-434d-b6fe-ac90896450e2" />
-<img width="1918" height="835" alt="image" src="https://github.com/user-attachments/assets/10bbe0b3-44f0-4c94-950b-7a3f8bc0c94c" />
-<img width="1838" height="855" alt="image" src="https://github.com/user-attachments/assets/51bf1217-a04c-4146-92e2-31758127dece" />
-<img width="1898" height="828" alt="image" src="https://github.com/user-attachments/assets/a7f168f5-fe5d-4706-a1aa-bf3dc3ff4dff" />
+
 
 
 ---
