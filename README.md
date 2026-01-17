@@ -1,5 +1,5 @@
 
-# 💼 Salary Prediction Web App
+# 💼 Employee Salary Prediction Web App
 
 This project is a **Machine Learning-powered web application** that predicts the **salary range** based on a user’s inputs such as education, experience, company size, and job title. The app is built using **Python, Scikit-learn, and Streamlit**, and deployed for public access.
 
