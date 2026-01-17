@@ -61,6 +61,7 @@ This system follows an **end-to-end machine learning pipeline**, which includes:
 - **Frontend**: HTML, CSS, TailwindCSS, JavaScript
 - **Backend**: Python, Flask
 - **Machine Learning**: Scikit-learn, Pandas, NumPy
+- **Algorithm**: Random Forest Regressor
 - **Visualization**: Matplotlib (for offline evaluation)
 - **Deployment**: Flask server (can be extended with Gunicorn + Nginx or hosted via platforms like Render or Heroku)
 
